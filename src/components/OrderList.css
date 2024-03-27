@@ -1,0 +1,21 @@
+.order-list {
+    list-style-type: none;
+    padding: 20px;
+    background-color: #333; 
+  }
+  
+  .order-item {
+    margin-bottom: 20px;
+    border: 1px solid #555; 
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #444; 
+    color: #eee; 
+  }
+  
+  .order-detail {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #ccc; 
+  }
+  

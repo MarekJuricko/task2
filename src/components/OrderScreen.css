@@ -1,0 +1,33 @@
+.orders-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px;
+}
+  
+  .orders-screen-buttons {
+    margin-bottom: 20px;
+}
+  
+  .orders-screen-button {
+    background-color: #555; 
+    color: #fff; 
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+  .orders-screen-button:last-child {
+    margin-right: 0;
+}
+  
+  .orders-screen-button:hover {
+    background-color: #777; 
+}
+  
